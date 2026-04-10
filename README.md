@@ -41,7 +41,7 @@ Five components, one `build()` call:
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/context-engine.git
+git clone https://github.com/Emmimal/context-engine.git
 cd context-engine
 pip install numpy                        # required
 pip install sentence-transformers        # optional — enables hybrid retrieval
