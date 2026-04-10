@@ -13,7 +13,8 @@ Most RAG tutorials stop at: retrieve documents, stuff them into a prompt, call t
 This library handles what comes next — deciding *what* the model actually sees, *how much*
 of it, and in *what order*, under real token constraints.
 
-Read the full write-up on Towards Data Science → **[link]**
+Read the full write-up on Towards Data Science → **[RAG Isn’t Enough — I Built the Missing Layer That Makes LLM Systems Work
+]**
 
 ---
 
